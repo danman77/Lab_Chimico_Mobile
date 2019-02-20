@@ -1,0 +1,100 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-file-md5@~0.3.3",
+        "scope": null,
+        "escapedName": "cordova-plugin-file-md5",
+        "name": "cordova-plugin-file-md5",
+        "rawSpec": "~0.3.3",
+        "spec": ">=0.3.3 <0.4.0",
+        "type": "range"
+      },
+      "C:\\Progetti_mobile\\laboratorio"
+    ]
+  ],
+  "_from": "cordova-plugin-file-md5@>=0.3.3 <0.4.0",
+  "_id": "cordova-plugin-file-md5@0.3.3",
+  "_inCache": true,
+  "_location": "/cordova-plugin-file-md5",
+  "_nodeVersion": "9.6.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-file-md5_0.3.3_1521542777056_0.11817785326974439"
+  },
+  "_npmUser": {
+    "name": "mramonlopez",
+    "email": "mramon.lopez@gmail.com"
+  },
+  "_npmVersion": "5.7.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-file-md5@~0.3.3",
+    "scope": null,
+    "escapedName": "cordova-plugin-file-md5",
+    "name": "cordova-plugin-file-md5",
+    "rawSpec": "~0.3.3",
+    "spec": ">=0.3.3 <0.4.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-file-md5/-/cordova-plugin-file-md5-0.3.3.tgz",
+  "_shasum": "bff81be92b252a66b278dde7502d23972a8f146d",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-file-md5@~0.3.3",
+  "_where": "C:\\Progetti_mobile\\laboratorio",
+  "author": {
+    "name": "Fabian Strachanski, Manuel Ramon Lopez Torres"
+  },
+  "bugs": {
+    "url": "https://github.com/mramonlopez/cordova-plugin-file-md5/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-file-md5",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova MD5 checksum plugin for Android and iOS. The plugin reads large files in chunks and build the md5sum incrementally. It can process much larger files then read the complete content in memory and process it in place.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-ENKe3yaRanTPc2uQv57FLiyypjOv/nuPupuRoDz0T/qiuTvs0u8I3iWJvh39N44hvsQ2tAXOIey1BvlSefU0ww==",
+    "shasum": "bff81be92b252a66b278dde7502d23972a8f146d",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-file-md5/-/cordova-plugin-file-md5-0.3.3.tgz",
+    "fileCount": 8,
+    "unpackedSize": 8243
+  },
+  "gitHead": "a88c09063cf1a95ab45956db9d7a99ee39911e7b",
+  "homepage": "https://github.com/mramonlopez/cordova-plugin-file-md5#readme",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "file",
+    "download",
+    "multiple",
+    "md5"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "mramonlopez",
+      "email": "mramon.lopez@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-file-md5",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mramonlopez/cordova-plugin-file-md5.git"
+  },
+  "version": "0.3.3"
+}
